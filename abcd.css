@@ -1,0 +1,105 @@
+css
+/* Basic page styling */
+body {
+    margin: 0;
+    padding: 30px 10px;
+    font-family: Georgia, serif;
+    background-color: #f8e8e8;
+    text-align: center;
+}
+
+/* Invitation card */
+.card {
+    max-width: 500px;
+    margin: auto;
+    padding: 25px;
+    background-color: #fffaf0;
+    border: 5px double #b8860b;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Top picture */
+.top-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Main heading */
+h1 {
+    color: #8b0000;
+    font-size: 32px;
+    margin: 15px 0;
+}
+
+/* Couple names */
+h2 {
+    color: #a0522d;
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+/* Other headings */
+h3 {
+    color: #b8860b;
+}
+
+/* Weds text */
+.and {
+    color: #8b0000;
+    font-style: italic;
+}
+
+/* Paragraphs */
+p {
+    color: #444;
+    line-height: 1.6;
+}
+
+/* Wedding details */
+.details {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #fdf0d5;
+    border-radius: 10px;
+}
+
+/* Bottom picture */
+.bottom-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Footer message */
+.footer {
+    margin-top: 20px;
+    color: #8b0000;
+    font-size: 16px;
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+    .card {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 21px;
+    }
+}
+
+body{
+  https://www.pinterest.com/ideas/beautiful-background-for-photo-editing/953123376343/
+}
+
+body{
+    background-color: antiquewhite;
+}
